@@ -2,7 +2,7 @@
 
   ![demo screenshot]()
 
-  [🌐 live demo](https://github.com/hind-hisham/Restaurant-app/deployments)
+  [🌐 live demo](https://github.com/hind-hisham/Restaurant-app/)
 
 ## Introduction
 This is Ract Applaction with vite tool,It is Restaurant landing page
