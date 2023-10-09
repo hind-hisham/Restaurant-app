@@ -1,6 +1,6 @@
 # Restaurant-app
 
-  ![demo screenshot]()
+  ![demo screenshot](https://github.com/hind-hisham/Restaurant-app/blob/main/src/assets/Restaurant-screenshot.png)
 
   [🌐 live demo](https://github.com/hind-hisham/Restaurant-app/)
 
