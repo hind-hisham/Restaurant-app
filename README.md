@@ -5,7 +5,7 @@
   [🌐 live demo](https://hind-hisham.github.io/Restaurant-app/)
 
 ## Introduction
-This is Ract Applaction with vite tool,It is Restaurant landing page
+This is React Application with Vite tool,It is Restaurant landing page
 
 ## Technologies
 * Vite
