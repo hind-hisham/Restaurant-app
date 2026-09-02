@@ -2,7 +2,7 @@
 
   ![demo screenshot](https://github.com/hind-hisham/Restaurant-app/blob/main/src/assets/Restaurant-screenshot.png)
 
-  [🌐 live demo](https://hind-hisham.github.io/Restaurant-app/)
+  [🌐 live demo](https://restaurant-app-cai3.onrender.com/)
 
 ## Introduction
 This is React Application with Vite tool,It is Restaurant landing page
